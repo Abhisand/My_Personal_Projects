@@ -10,7 +10,7 @@ public class HelloWorldProg {
 	}
 	void show()
 	{
-		System.out.println("Hello!");
+		System.out.println("Hi!");
 	}
 	
 
