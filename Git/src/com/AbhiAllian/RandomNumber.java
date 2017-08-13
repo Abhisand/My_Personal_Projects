@@ -2,12 +2,15 @@ package com.AbhiAllian;
 
 import java.util.Random;
 
-public class RandomNumber {
+public class HelloWorldProg {
 
 	public static void main(String[] args) 
 	{
-		Random r=new Random();
-		System.out.println(r.nextInt(10));
+		System.out.println("Hello Allian");
+	}
+	void show()
+	{
+		System.out.println("Hi");
 	}
 
 }
