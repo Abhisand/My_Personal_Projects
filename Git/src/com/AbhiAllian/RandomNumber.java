@@ -8,5 +8,9 @@ public class HelloWorldProg {
 	{
 		System.out.println("Hello Allian");
 	}
+	void show()
+	{
+		System.out.println("Hi");
+	}
 
 }
